@@ -1,0 +1,11 @@
+{
+  "name": "ConectaDoa",
+  "short_name": "ConectaDoa",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#00796B",
+  "theme_color": "#00796B",
+  "description": "Conecta pessoas que doam materiais escolares a quem precisa deles.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
